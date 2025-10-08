@@ -1,8 +1,7 @@
-#pseudocode dari tugas 1 modul 2
-print("masukkah jumlah nilai mahasiswa(0-100)")
+print("masukkan jumlah nilai mahasiswa(0-100)")
 nilai = int(input())
 print("nilai = " + str(nilai))
-if nilai > 85:
+if nilai >= 85:
     print("A")
     print("masukkan jumlah persen kehadiran")
     kehadiran = int(input())
@@ -10,13 +9,13 @@ if nilai > 85:
     if kehadiran >= 90:
         print("Lulus dengan Pujian")
 else:
-    if nilai > 70:
+    if nilai >= 70:
         print("B")
     else:
-        if nilai > 60:
+        if nilai >= 60:
             print("C")
         else:
-            if nilai > 50:
+            if nilai >= 50:
                 print("D")
             else:
                 print("E")
