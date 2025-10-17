@@ -24,3 +24,4 @@ while True:
     lanjut = input("Apakah ada pembeli berikutnya? (y/n): ")
     if lanjut != 'y':
         break
+
