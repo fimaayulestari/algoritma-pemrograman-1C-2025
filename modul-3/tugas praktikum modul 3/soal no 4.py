@@ -5,7 +5,7 @@ while True:
 
     while True:
         nama_barang = input("masukkan nama barang (ketik 'selesai' jika sudah): ")
-        if nama_barang.lower() == 'selesai':
+        if nama_barang == 'selesai':
             break
         harga_barang = float(input(f"masukkan harga {nama_barang}: "))
         daftar_barang.append({'nama': nama_barang, 'harga': harga_barang})

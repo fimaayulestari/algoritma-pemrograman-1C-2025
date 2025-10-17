@@ -1,4 +1,4 @@
-def menampilkan_bilangan_prima(n):
+def tampilkan_bilangan_prima(n):
    
     """
     menampilkan bilangan prima dari 1 sampai n.

@@ -7,8 +7,8 @@ def hitung_karakter_dan_kata(kalimat):
     jumlah_kata = len(kata)
 
     for char in kalimat:
-        if 'a' <= char.lower() <= 'z':
-            if char.lower() in vokal:
+        if 'a' <= char() <= 'z':
+            if char() in vokal:
                 jumlah_vokal += 1
             else:
                 jumlah_konsonan += 1
