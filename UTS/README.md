@@ -1,8 +1,17 @@
-# Repository praktikum Algoritma Pemrograman 1A-2025
+main
+main
+jadi program ini dibuat melakukan perentalan motor yang harga nya sudah di sesuaikan, jika nyewa lebih dari 3 hari dia dapet asuransi 15000 dan
 
-**Repository Praktikum ALPRO-1A-2025.**
-
-Kumpulkan Tugas di folder ini yang sudah dibuat, penamaan folder dengan **format NIM-NamaLengkap-NamaLengkapAsprak**, dan untuk nama tidak menggunakan spasi, namun diganti dengan huruf kapital di setiap nama atau awal kalimat
-contoh: **230441100026-Ar'raffiAbqoriNurAzizi-AsprakKakRapi**
-
-Kumpulkan tugas yang sudah dibuat di folder yang sudah disediakan dan kumpulkan tugas ketika sudah melakukan asistensi kepada Asisten Praktikum.
+250441100037_Muhamad_Fiki_Arya_Kusuma
+jadi program ini dibuat melakukan perentalan motor yang harga nya sudah di sesuaikan, jika nyewa lebih dari 3 hari dia dapet asuransi 15000 dan total semua
+main
+pertama menetapkan harga sewa motor, asuransi, diskon, dan kupon. 
+lalu menambah variabel penghitung hari dan total.
+Setelah itu bikin perulangan tanpa batas dengan menggunakan while True: bukan while saja
+dibawahnya meminta input untuk jenis motor, sewa motor, dan apakah mempunyai kupon.
+buat if jika sewa lebih dari 3 hari ada tambahan asuransi
+ main
+sekian sampai situ saja programnya
+main
+sekian sampai situ saja programnya main
+ main
